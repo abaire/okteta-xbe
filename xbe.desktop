@@ -1,0 +1,51 @@
+[Desktop Entry]
+Encoding=UTF-8
+Icon=application-x-executable
+Type=Service
+ServiceTypes=KPluginInfo
+
+Name=XBE structure
+Name[bs]=XBE struktura
+Name[ca]=Estructura XBE
+Name[ca@valencia]=Estructura XBE
+Name[da]=XBE-struktur
+Name[de]=XBE-Struktur
+Name[el]=Δομή XBE
+Name[en_GB]=XBE structure
+Name[es]=Estructura XBE
+Name[et]=XBE struktuur
+Name[fi]=XBE-rakenne
+Name[fr]=Structure XBE
+Name[ga]=Struchtúr XBE
+Name[hu]=XBE struktúra
+Name[it]=Struttura XBE
+Name[kk]=XBE құрылымы
+Name[km]=រចនាសម្ព័ន្ធ​របស់​ XBE
+Name[ko]=XBE 구조
+Name[nb]=XBE-struktur
+Name[nds]=XBE-Struktuur
+Name[nl]=XBE-structuur
+Name[pl]=Struktura XBE
+Name[pt]=Estrutura XBE
+Name[pt_BR]=Estrutura XBE
+Name[sr]=ЕЛФ структура
+Name[sr@ijekavian]=ЕЛФ структура
+Name[sr@ijekavianlatin]=XBE struktura
+Name[sr@latin]=XBE struktura
+Name[sv]=XBE-struktur
+Name[uk]=Структура XBE
+Name[x-test]=xxPE structurexx
+Name[zh_CN]=XBE 结构
+Name[zh_TW]=XBE 結構
+Comment=Structure for Network packets (XBE)
+Comment[it]=Struttura per pacchetti di rete (XBE)
+
+
+X-KDE-PluginInfo-Author=Erik Abair
+X-KDE-PluginInfo-Email=erik.abair@gmail.com
+X-KDE-PluginInfo-Name=XboxExecutable
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://www.kde.org/
+X-KDE-PluginInfo-Category=structure/js
+X-KDE-PluginInfo-License=BSDL
+X-KDE-PluginInfo-EnabledByDefault=false
